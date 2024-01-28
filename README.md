@@ -5,5 +5,5 @@ Training and testing functions for predicting color of the blocks.
 pip install torch
 
 <h2>Dataset Preparation</h2>
-Download the dir <b>images</b> folder from GitLab
+Download the dir <b>images</b> folder from GitLab https://git.rwth-aachen.de/justin.pratt/ki-demonstrator/-/tree/main/images?ref_type=heads
 
